@@ -34,14 +34,10 @@ The simulations explore the impact of:
 * RIS size on achievable rate.
 * RIS positioning on achievable rate.
 
-**Future Work:**
-
-* Solving the formulated optimization problem for RIS response.
-* Validating the model with real-world measurements.
-* Incorporating more sophisticated surface models (e.g., SEM-based models).
-* Analyzing RIS response for different modulation schemes.
-* Considering the mutual coupling between RIS elements.
 
 **Further Information:**
 
-For a more detailed description of the model and simulation results, please refer to the complete thesis document (available upon request).
+For a more detailed description of the model and simulation results, please refer to the complete thesis document.
+NOTE: This work based on:
+E. Basar, I. Yildirim, “SimRIS Channel Simulator for Reconfigurable Intelligent Surface-Empowered Communication Systems“, in Proc. IEEE Latin-American Conf. Commun. (LATINCOM 2020), Nov. 2020
+https://corelab.ku.edu.tr/tools/
